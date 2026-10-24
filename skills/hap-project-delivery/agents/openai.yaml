@@ -1,0 +1,4 @@
+interface:
+  display_name: "明道云项目落地"
+  short_description: "从需求澄清到设计搭建与迭代交付，持续保存项目资料并客观分析问题"
+  default_prompt: "使用 $hap-project-delivery，从当前需求开始引导我设计明道云应用，并持续维护项目资料。"
